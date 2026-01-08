@@ -3,6 +3,14 @@
 ## Overview
 This project focuses on analyzing a book sales dataset to uncover trends related to sales performance, pricing, genres, languages, authors, and publishers. The goal was to clean raw data, handle missing values, and generate insights through exploratory data analysis and visualization.
 
+## 📽️ Project Walkthrough (Screen Recording)
+
+<video width="100%" controls>
+  <source src="dashboard-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Tools & Technologies
 - Python
 - Pandas
