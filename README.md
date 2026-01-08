@@ -6,7 +6,7 @@ This project focuses on analyzing a book sales dataset to uncover trends related
 ## 📽️ Project Walkthrough (Screen Recording)
 
 <video width="100%" controls>
-  <source src="dashboard-demo.mp4" type="video/mp4">
+  <source src="https://github.com/Mbuzi99/book-sales-data-analysis/blob/main/Screenshots/28.12.2025_18.40.49_REC.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
