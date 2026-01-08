@@ -5,11 +5,7 @@ This project focuses on analyzing a book sales dataset to uncover trends related
 
 ## 📽️ Project Walkthrough (Screen Recording)
 
-<video width="100%" controls>
-  <source src="https://github.com/Mbuzi99/book-sales-data-analysis/blob/main/Screenshots/28.12.2025_18.40.49_REC.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/32de135b-13d9-4d5d-b4bd-fa2da0106258
 
 ## Tools & Technologies
 - Python
